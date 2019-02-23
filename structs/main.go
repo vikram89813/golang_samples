@@ -30,6 +30,15 @@ func main() {
 		},
 	}
 
+	// test := person{}
+
+	// test.contact.email = "test1@test.com"
+	// test.contact.zipCode = 560037
+	// test.firstName = "t1"
+	// test.lastName = "t2"
+
+	// fmt.Println(test)
+
 	// jptr := &jim
 	// jptr.updateName("jimmy")
 
